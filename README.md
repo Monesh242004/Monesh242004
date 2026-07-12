@@ -41,25 +41,19 @@ Currently, I am expanding my knowledge in:
 ### Data Analysis
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
 
 ### Visualization
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi)
-
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-blue?style=for-the-badge)
-
 ![Seaborn](https://img.shields.io/badge/Seaborn-4B8BBE?style=for-the-badge)
 
 ### Tools
 
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel)
-
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit)
-
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 
 ---
