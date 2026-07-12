@@ -156,7 +156,7 @@ A Python application to generate QR codes from URLs and text.
 
 📧 Email: **monesh2004chaudhari@gmail.com**
 
-💼 LinkedIn: https://linkedin.com/in/YOUR-LINKEDIN
+💼 LinkedIn: [https://linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/monesh-chaudhari-4a9732377/)
 
 🌐 Portfolio: https://YOUR-PORTFOLIO
 
